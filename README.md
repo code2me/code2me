@@ -1,6 +1,6 @@
 # Hey, I'm Navneet 👋🏼
 
-I'm a Computer Science Student from New Delhi who loves to create technology that elevates others and builds community. 🌎&nbsp; I bring stories to life through code and write about my journey as a developer. I'm currently 🚧&nbsp; Doing major projects related to Android, Blockchain and 📚&nbsp; am learning more about System Design, Data Structures, and Algorithms.
+I'm a Computer Science Student from New Delhi who loves to create technology that elevates others and builds community. 🌎&nbsp; I bring stories to life through code and write about my journey as a developer. I'm currently 🚧&nbsp; Doing major projects related to Android, Blockchain and Reactive JavaScript Apps. I am learning more about System Design, Data Structures, and Algorithms.
 
 ## Find me around the web
 </p>
