@@ -1,8 +1,8 @@
 # Hey, I'm Navneet Bahuguna👋🏼
 
-I'm a Computer Science final year student from New Delhi, India. 
-I'm currently Doing major projects related to Android, Blockchain and Reactive JavaScript Apps. 
-I am learning more about System Design, Data Structures, and Algorithms.
+- I'm a Computer Science final year student from New Delhi, India. 
+- I'm currently Doing major projects related to Android, Blockchain and Reactive JavaScript Apps. 
+- I am learning more about System Design, Data Structures, and Algorithms.
 
 ## Find me around the web
 </p>
