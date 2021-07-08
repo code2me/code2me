@@ -15,4 +15,5 @@ src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw
 
 ## A few projects
 
-- still doing
+- [GroupChat](https://groupchat007.herokuapp.com/)
+- navcoins (under development)
