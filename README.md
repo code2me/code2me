@@ -1,9 +1,9 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Navneet Bahuguna!](https://www.linkedin.com/in/code2me/)
 
 - I'm a Computer Science final year student from New Delhi, India. 
-- I'm currently Doing major projects related to Android, Blockchain and Reactive JavaScript Apps. 
-- I am learning more about System Design, Data Structures, and Algorithms.
-- I am passionate about Web Dev & I enjoy learning new things. 
+- Currently Doing major projects related to Android, Blockchain and Reactive JavaScript Apps. 
+- Learning more about System Design, Data Structures, and Algorithms.
+- Passionate about Web Dev & I enjoy learning new things. 
 
 
 ## Some GitHub statistical reports:
