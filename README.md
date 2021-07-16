@@ -10,7 +10,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=code2me&show_icons=true&count_private=true&&title_color=66fcf1&text_color=f94c57&icon_color=fc3c44&bg_color=00000000&hide=bg-color&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code2me&layout=compact&&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code2me&layout=compact&&title_color=66f6f1&text_color=f94c57&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
 
 ## A few projects
 
