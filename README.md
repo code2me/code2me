@@ -6,7 +6,7 @@
 - Passionate about Web Dev & I enjoy learning new things. 
 
 
-## Some GitHub statistical reports:
+## Some GitHub statistical reports
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=code2me&show_icons=true&count_private=true&&title_color=66fcf1&text_color=f64c72&icon_color=66fcf1&bg_color=00000000&hide=bg-color&hide_border=true)
 
