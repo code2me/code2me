@@ -9,8 +9,8 @@
 ## Some GitHub statistical reports:
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code2me&hide_langs_below=1&theme=dracula&line_height=27&layout=compact" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=code2me&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&line_height=21" alt="code2me's Github Stats" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=code2me&hide_langs_below=1&theme=dracula&line_height=27&layout=compact" />
+<img  src="https://github-readme-stats.vercel.app/api?username=code2me&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&line_height=21" alt="code2me's Github Stats" />
 </p>
 
 
