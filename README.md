@@ -23,15 +23,11 @@
 </p>
 <p align='left'>
   <a href="https://twitter.com/code2do">
-    <img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true">
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/xeqnav/">
-    <img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true">
+    <img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg">
   </a>&nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/code2me/">
-    <img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
+    <img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
   </a>
  </p>
  
