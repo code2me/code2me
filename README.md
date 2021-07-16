@@ -8,14 +8,8 @@
 
 ## Some GitHub statistical reports:
 
-<p align='center'>
-  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code2me&hide_langs_below=1&theme=dracula&line_height=27&layout=compact" />
-</p>
-<p align='center'>
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=code2me&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&line_height=21" 
-        alt="Navneet's Github Stats" />
-</p>
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=code2me&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code2me&hide=TeX&layout=compact)
 
 ## A few projects
 
