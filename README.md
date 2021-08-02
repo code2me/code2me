@@ -20,16 +20,17 @@
 
 ## Find me around the web
 
-</p>
 <p align='left'>
+  
   <a href="https://twitter.com/code2do">
     <img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg">
-  </a>&nbsp;&nbsp;
+  </a>
   
   <a href="https://www.linkedin.com/in/code2me/">
     <img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
   </a>
- </p>
+  
+</p>
  
 <p align='left'> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=code2me.code2me" alt="visitor badge"/>    
