@@ -1,8 +1,7 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Navneet Bahuguna!](https://www.linkedin.com/in/code2me/)
 
-- I'm MERN FullStack Developer.
-- I have done my Graduation in Computer science and i lives in New Delhi, India. 
-- I like to work on projects related to Android, Blockchain and Reactive JavaScript Apps. 
+- I'm Software Engineer, 2022 computer science graduate.
+- I like to work on projects related to React, Android and Blockchain. 
 - Learning more about System Design, Data Structures, and Algorithms.
 - Passionate about Web Dev & I enjoy learning new things. 
 
@@ -13,21 +12,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code2me&layout=compact&&title_color=66fcf1&text_color=66fcf1&icon_color=45a29e&bg_color=00000000&hide=bg-color&hide_border=true)
 
-## A few projects
-
-- [GroupChat](https://groupchat007.herokuapp.com/)
-- navcoins (under development)
-
-
 ## Find me around the web
 
 <p align='left'>
   
-  <a href="https://twitter.com/code2do">
+  <a href="https://twitter.com/Cypherzz">
     <img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg">
   </a>
   
-  <a href="https://www.linkedin.com/in/code2me/">
+  <a href="https://www.linkedin.com/in/cypherzz/">
     <img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
   </a>
   
