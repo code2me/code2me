@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Navneet Bahuguna!](https://www.linkedin.com/in/code2me/)
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Navneet Bahuguna!](https://navneet.site/)
 
 - I'm Software Engineer, 2022 computer science graduate.
 - I like to work on projects related to React, Android and Blockchain. 
