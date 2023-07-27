@@ -1,9 +1,14 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Navneet Bahuguna!](https://navneet.site/)
 
 - I'm Software Engineer, 2022 computer science graduate.
-- I like to work on projects related to React, Android and Blockchain. 
+- I like to work on all kinds of projects.
+- I have expertise in the following
+• Backend: NodeJs, Express, JavaScript, Typescript.
+• Frontend: HTML/CSS, ReactJs, NextJs, Bootstrap, Tailwind.
+• Databases: MongoDB, MySQL.
+• Comfortable with: Git, REST, MVC
+• Familar with: Graphql, Sequelize, DynamoDB.
 - Learning more about System Design, Data Structures, and Algorithms.
-- Passionate about Web Dev & I enjoy learning new things. 
 
 
 ## Some GitHub statistical reports
