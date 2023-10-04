@@ -1,4 +1,6 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Navneet Bahuguna!](https://navneet.site/)
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, 
+
+I'm [Navneet](https://navneet.site/)
 
 - I'm Software Engineer, 2022 computer science graduate.
 - I like to work on all kinds of projects.
